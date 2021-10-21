@@ -1,4 +1,4 @@
-基于EM算法推导K-means算法
+##基于EM算法推导K-means算法
 
 K-means算法是EM算法的特例，它的算法流程及其与GMM,EM的关系如下
 ![](1.png)
