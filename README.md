@@ -7,4 +7,4 @@ Re-implementation of some classical algorithm in pattern recognition
 
 ## 线性分类器--感知器算法和最小平方误差算法
 
-## 应用--基于svm算法实现简单图像分类
+## 应用--基于svm算法实现Fashion_Minist图像分类
